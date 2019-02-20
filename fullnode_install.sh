@@ -563,7 +563,7 @@ if [ -d iri-playbook ]; then
 fi
 
 # Clone the repository (optional branch)
-git clone $GIT_OPTIONS https://github.com/nuriel77/iri-playbook.git
+git clone $GIT_OPTIONS https://github.com/svenger87/iri-playbook.git
 cd iri-playbook
 
 # Let user choose installation add-ons
